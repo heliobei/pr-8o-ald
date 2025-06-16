@@ -10,7 +10,7 @@ const BooksCardStudent = () => {
         {/* Coluna da imagem e logo */}
         <div className="flex flex-col items-center justify-center text-center md:text-left">
           <Image
-            src="/9o.png"
+            src="/8o.png"
             alt="Capa do material"
             width={500}
             height={500}
